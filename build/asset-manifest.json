@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32845e81.css",
+    "main.js": "/static/js/main.9a7806a5.js",
+    "static/js/787.d92ff602.chunk.js": "/static/js/787.d92ff602.chunk.js",
+    "static/media/notesPhoto.jpg": "/static/media/notesPhoto.e13007856c4db0ce67a5.jpg",
+    "static/media/myphoto.jpg": "/static/media/myphoto.8609495eab5bc2b46e53.jpg",
+    "static/media/arya1.jpg": "/static/media/arya1.f7c558cc8830b8c910b0.jpg",
+    "static/media/arya2.jpg": "/static/media/arya2.e2dc8d02ddaa1ac0c328.jpg",
+    "static/media/arya4.jpg": "/static/media/arya4.1ff5fec30bd26689cd2b.jpg",
+    "static/media/arya3.jpg": "/static/media/arya3.7b5f95c12fb812e7b41b.jpg",
+    "static/media/sorryMonkey.png": "/static/media/sorryMonkey.9c38b1dc036a55a893c4.png",
+    "static/media/ForgotPassword.png": "/static/media/ForgotPassword.8ab9fc1fd93eccca2f8d.png",
+    "static/media/ResetPassword.png": "/static/media/ResetPassword.a6ff889be2752554c6ed.png",
+    "static/media/VerifyEmail.png": "/static/media/VerifyEmail.146113fea90aa00c5af6.png",
+    "static/media/SignUp.png": "/static/media/SignUp.24a4d728e12a63f5c5fc.png",
+    "static/media/SignIn.png": "/static/media/SignIn.62eb82aee0733d1e316c.png",
+    "static/media/arya5.jpg": "/static/media/arya5.8eac82e1d00f9578d204.jpg",
+    "index.html": "/index.html",
+    "main.32845e81.css.map": "/static/css/main.32845e81.css.map",
+    "main.9a7806a5.js.map": "/static/js/main.9a7806a5.js.map",
+    "787.d92ff602.chunk.js.map": "/static/js/787.d92ff602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32845e81.css",
+    "static/js/main.9a7806a5.js"
+  ]
+}

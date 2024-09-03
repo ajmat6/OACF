@@ -1,0 +1,52 @@
+@media screen and (max-width: 1024px) {
+    .nav-box {
+        gap: 80px
+    }  
+}
+
+@media screen and (min-width: 605px) and (max-width: 768px) {
+    .nav-box {
+        gap: 55px
+    }  
+
+    .nav-box {
+        height: 65px;
+    }
+}
+
+@media screen and (max-width: 604px) {
+    .nav-box {
+        height: 60px;
+        gap: 40px;
+    }  
+
+    .post-btn {
+        padding: 8px;
+    }
+}
+
+@media screen and (max-width: 517px) {
+    .nav-box {
+        height: 60px;
+        gap: 18px;
+        font-size: 13px;
+    }
+
+    .post-btn {
+        padding: 8px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 365px) {
+    .nav-box {
+        height: 60px;
+        gap: 15px;
+        font-size: 12px;
+    }
+
+    .post-btn {
+        padding: 8px;
+        font-size: 11px;
+    }
+}

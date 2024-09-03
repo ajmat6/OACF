@@ -1,0 +1,24 @@
+.control-dots {
+    top: 351px;
+}
+
+.carousel .carousel-status {
+    display: none;
+}
+
+.carousel.carousel-slider .control-arrow {
+    top: 0;
+    color: #fff;
+    font-size: 26px;
+    bottom: 0;
+    margin-top: 0;
+    padding: 5px;
+    background: var(--color-primary);
+    height: 88px;
+    width: 30px;
+    text-align: center;
+    margin: auto;
+    border-radius: 4px;
+    color: white;
+    z-index: 5;
+}
